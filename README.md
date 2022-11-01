@@ -5,6 +5,4 @@ Są one, w maksymalnym możliwym zakresie, nieobjęte prawami „własności int
 
 Powyższy stan prawny dotyczy całej mojej przeszłej, obecnej i przyszłej twórczości, o ile nie została ona oznaczona inaczej, ani nie zobowiązałem się do czego innego umową.
 
-Więcej treści wkrótce.
-
 _ByteEater_

@@ -11,7 +11,7 @@ potomek(X, Y) :- dziecko(X, Z), potomek(Z, Y).
 rodzice(jan, [paweł, aneta]).
 rodzice(artur, [paweł, julia]).
 rodzice(henryk, [julia]).
-%member, <, >, ==, /=, @>, length, append/3, append/2, =/2, is, sort – predykaty wbudowane
+%member, <, >, ==, \=, @>, length, append/3, append/2, =/2, is, sort – predykaty wbudowane
 
 len([], 0).
 len([_|T], N) :- len(T, K), N is K + 1.
